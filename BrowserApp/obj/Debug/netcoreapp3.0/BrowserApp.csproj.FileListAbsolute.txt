@@ -1,0 +1,17 @@
+C:\Users\home\source\repos\BrowserApp\BrowserApp\bin\Debug\netcoreapp3.0\BrowserApp.exe
+C:\Users\home\source\repos\BrowserApp\BrowserApp\bin\Debug\netcoreapp3.0\BrowserApp.deps.json
+C:\Users\home\source\repos\BrowserApp\BrowserApp\bin\Debug\netcoreapp3.0\BrowserApp.runtimeconfig.json
+C:\Users\home\source\repos\BrowserApp\BrowserApp\bin\Debug\netcoreapp3.0\BrowserApp.runtimeconfig.dev.json
+C:\Users\home\source\repos\BrowserApp\BrowserApp\bin\Debug\netcoreapp3.0\BrowserApp.dll
+C:\Users\home\source\repos\BrowserApp\BrowserApp\bin\Debug\netcoreapp3.0\BrowserApp.pdb
+C:\Users\home\source\repos\BrowserApp\BrowserApp\obj\Debug\netcoreapp3.0\BrowserApp.csprojAssemblyReference.cache
+C:\Users\home\source\repos\BrowserApp\BrowserApp\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\home\source\repos\BrowserApp\BrowserApp\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\home\source\repos\BrowserApp\BrowserApp\obj\Debug\netcoreapp3.0\BrowserApp_MarkupCompile.cache
+C:\Users\home\source\repos\BrowserApp\BrowserApp\obj\Debug\netcoreapp3.0\BrowserApp_MarkupCompile.lref
+C:\Users\home\source\repos\BrowserApp\BrowserApp\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\home\source\repos\BrowserApp\BrowserApp\obj\Debug\netcoreapp3.0\BrowserApp.g.resources
+C:\Users\home\source\repos\BrowserApp\BrowserApp\obj\Debug\netcoreapp3.0\BrowserApp.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\BrowserApp\BrowserApp\obj\Debug\netcoreapp3.0\BrowserApp.AssemblyInfo.cs
+C:\Users\home\source\repos\BrowserApp\BrowserApp\obj\Debug\netcoreapp3.0\BrowserApp.dll
+C:\Users\home\source\repos\BrowserApp\BrowserApp\obj\Debug\netcoreapp3.0\BrowserApp.pdb
